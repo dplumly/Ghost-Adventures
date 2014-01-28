@@ -9,7 +9,7 @@ Supplies:
 LED
 PIR Sensor
 
-Arduino Yun (if you want to send a text to a device) If not usr any other arduino eg. Uno
+Arduino Yun (if you want to send a text to a device) If not use any other arduino eg. Uno
 
 Jumpers
 
